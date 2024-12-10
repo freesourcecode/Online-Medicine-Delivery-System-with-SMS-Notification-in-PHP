@@ -1,6 +1,6 @@
 # Online Medicine Delivery System with SMS Notification in PHP with Source Code
 
-The **Ordering and Delivering System in PHP with SMS notification** is designed to allow customers to easily place orders over the internet.
+The **Online Medicine Delivery System in PHP with SMS notification** is designed to allow customers to easily place orders over the internet.
 
 With the improvement of technology, online ordering and delivery systems have become popular topics.
 
